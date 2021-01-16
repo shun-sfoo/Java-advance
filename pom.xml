@@ -8,9 +8,9 @@
     <artifactId>java-advance</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>data-struct</module>
         <module>utils</module>
         <module>neo-spring</module>
+        <module>algs4j</module>
     </modules>
     <packaging>pom</packaging>
 

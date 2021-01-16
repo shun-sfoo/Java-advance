@@ -9,11 +9,19 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>data-struct</artifactId>
+    <artifactId>algs4j</artifactId>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>edu.princeton.cs</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+    </dependencies>
 
 </project>
